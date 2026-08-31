@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0931-minimum-falling-path-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0056-merge-intervals) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0931-minimum-falling-path-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
 |  |
 | ------- |
@@ -60,4 +63,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0416-partition-equal-subset-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
