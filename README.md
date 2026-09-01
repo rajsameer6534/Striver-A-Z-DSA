@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/1143-longest-common-subsequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
 |  |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
