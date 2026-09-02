@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0064-minimum-path-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/1143-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/rajsameer6534/Striver-A-Z-DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
